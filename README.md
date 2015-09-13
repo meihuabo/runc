@@ -262,7 +262,7 @@ user with uid and gid of `0` defined within that file-system.
                         "uid": 0,
                         "gid": 0
                 }
-        ],
+        ]
     }
 }
 ```
